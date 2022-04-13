@@ -14,15 +14,15 @@ This folder packs up all the necessary object to sample from copulae. More detai
 
 ## fig_1
 
-This folder is associated to experiment <b>E1<b>.
-The script empirical_counterpart.py generate 199 samples from the specified model and estimate the <b>w<b>-madogram for 199 values of <b>w<b> in ]0,1[. This step are reproduced 300 times and store afterwards results in a csv file.
-This csv file contains 300 estimator of the hybrid and corrected estimator of the <b>w<b>-madogram for 199 values in [0,1] (a 300 x 199 table).
+This folder is associated to experiment **E1**.
+The script empirical_counterpart.py generate 199 samples from the specified model and estimate the **w**-madogram for 199 values of **w** in ]0,1[. This step are reproduced 300 times and store afterwards results in a csv file.
+This csv file contains 300 estimator of the hybrid and corrected estimator of the **w**-madogram for 199 values in [0,1] (a 300 x 199 table).
 One can plot the resulting figures in Fig. 1 of the paper by using the plot.py script.
 
 ## fig_2_3
 
-Contains all scripts to perform simulation of experiment <b>E2<b> for a peculiar grid of the simplex in dimension 3.
-The file empirical_counterpart.py is used to compute the empirical counterpart and the theoretical value of the asymptotic variance of <b>w<b>-madogram. Results are store in a csv file which is call by plot.py file to produce panel of figures 2 and 3.
+Contains all scripts to perform simulation of experiment **E2** for a peculiar grid of the simplex in dimension 3.
+The file empirical_counterpart.py is used to compute the empirical counterpart and the theoretical value of the asymptotic variance of **w**-madogram. Results are store in a csv file which is call by plot.py file to produce panel of figures 2 and 3.
 
 ## fig_4
 
