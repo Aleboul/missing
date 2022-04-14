@@ -7,6 +7,8 @@ from matplotlib.patches import Rectangle
 
 from k_means_constrained import KMeansConstrained
 
+## Colab link :  https://colab.research.google.com/drive/1RKBwvdWpy1auJvKaF5CkRhPlDQM0cxGw#scrollTo=ZMo3qLWTOhiS
+
 """
     Download Data
 """
